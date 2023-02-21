@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Ilija Tavchioski, I am currently a MSc student at University of Ljubljana for Computer Science. I am experienced in Competitive programming and very interested in AI research.
 <!--
 **theteleton/theteleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
