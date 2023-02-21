@@ -1,9 +1,10 @@
 ## Hi there 👋, I am Ilija Tavchioski
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) (https://ilijatavchioski.medium.com)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) (https://codeforces.com/profile/theteleton)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) (https://www.kaggle.com/ilijatavchioski)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/ilija-t-bb4b25110/)
+![<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://ilijatavchioski.medium.com)
+![<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>](https://codeforces.com/profile/theteleton)
+![<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>]([https://ilijatavchioski.medium.com](https://www.kaggle.com/ilijatavchioski))
+![<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://ilijatavchioski.medium.com](https://www.linkedin.com/in/ilija-t-bb4b25110/))
+
 
 
 ## About me 👨‍💻
