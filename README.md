@@ -11,7 +11,8 @@
 - 🇲🇰 I am from Macedonia, and currently reside in Slovenia 🇸🇮.
 - 🎓 I hold a BSc at Computer Science from University of Ljubljana and, currently enrolled as MSc student for Computer Science at University of Ljubljana.
 - 🌱 I am on track to learn more of Artificial Intelligence, Data Science and System Design.
-- ✍️  In my free time I am writing a blog about AI research, algorithms, data structures, problem solving.
+- ✍️  In my free time I am writing a blog about AI research, algorithms, data structures, problem solving, competitive programmin.
+
 
 ## Language stack 🔤
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
