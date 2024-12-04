@@ -12,7 +12,7 @@
 
 ## About me 👨‍💻
 - 🇲🇰 I am from Macedonia, and currently reside in Slovenia 🇸🇮.
-- 🎓 I hold a BSc at Computer Science from University of Ljubljana and, currently enrolled as MSc student for Computer Science at University of Ljubljana.
+- 🎓 I hold a BSc at Computer Science from University of Ljubljana and, currently finishing my MSc for Computer Science at University of Ljubljana.
 - 🌱 I am on track to learn more of Artificial Intelligence, Data Science and System Design.
 - ✍️  In my free time I am writing a blog about AI research, algorithms and data structures, problem solving and competitive programming.
 
